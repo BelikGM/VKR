@@ -1,0 +1,1 @@
+This project was created at 19th July 2024 by Belik Georgij in Aurora IDE. To play this app you need to use this project in path C:/Users/belik/ and debugging with AuroraOS-5.0.0.60-basex86-64 with using auto RPM package.![image](https://github.com/user-attachments/assets/1194fae9-bf57-447a-a21f-4011308d7be4)
